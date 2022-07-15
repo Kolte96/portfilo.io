@@ -1,8 +1,8 @@
 # portfilo.io
 -I am currently working on my portfilo account.
 <h4> Find me around the web</h4>
--My Linkdin Profile:https://www.linkedin.com/in/gauri-kolte-274bb9160<br>
--My Portfilo_github account<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a><br>
+-My Linkdin Profile:<a href :<a hred="https://www.linkedin.com/in/gauri-kolte-274bb9160">Linkdinprofile_Gauri_Kolte</a><br>
+-My Portfilo_github account :<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a><br>
 
 #Project 1:Exploratory Data Analysis on titanic data set
 #Code Link:<br>
@@ -18,11 +18,11 @@
 #Code Link:<a href="https://github.com/Kolte96/portfilo.io/blob/main/Vehicle_speed_detection.ipynb">Vehicle_speed_detection_Code</a><br>
 
 #project 3 
-Sales Dashboard
+Sales Dashboard<br>
 It contains Three cities data.<br>
 Dashboard Shows Sales Data.<br>
 ![alt text](dataset2Powerbi2.PNG)
 
-#Project 4
+#Project 4<br>
 Country Sales Dashboard<br>
 ![alt text](Powerbi3.PNG)
