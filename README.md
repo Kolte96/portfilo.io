@@ -1,11 +1,12 @@
 # portfilo.io
 -I am currently working on my portfilo account.
-<h2> Find me around the web</h2>
--My Portfilo_github account<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a>
+<h4> Find me around the web</h4>
+-My Linkdin Profile:https://www.linkedin.com/in/gauri-kolte-274bb9160<br>
+-My Portfilo_github account<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a><br>
 
 #Project 1:Exploratory Data Analysis on titanic data set
 #Code Link:<br>
--<a href="https://github.com/Kolte96/portfilo.io/blob/main/Titanic_Dataset_EDA.ipynb">Titanic_code</a>
+-<a href="https://github.com/Kolte96/portfilo.io/blob/main/Titanic_Dataset_EDA.ipynb">Titanic_code</a><br>
 -Operation on Data:<br>
 -Cheking duplicates<br>
 -Checking null<br>
