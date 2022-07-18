@@ -6,7 +6,7 @@
 -My Linkdin Profile:<a href :<a hred="https://www.linkedin.com/in/gauri-kolte-274bb9160">Linkdinprofile_Gauri_Kolte</a><br>
 -My Portfilo_github account :<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a><br>
 <br>
-<h3>Completed With Google Professional Data Analytics Certificate</h3><br>
+<h3>Certified in Google Professional Data Analytics in may 2022.</h3><br>
 #Project 1:Exploratory Data Analysis on titanic data set<br>
 #Code Link:<br>
 -<a href="https://github.com/Kolte96/portfilo.io/blob/main/Titanic_Dataset_EDA.ipynb">Titanic_code</a><br>
@@ -21,7 +21,7 @@
 #Code Link:<a href="https://github.com/Kolte96/portfilo.io/blob/main/Vehicle_speed_detection.ipynb">Vehicle_speed_detection_Code</a><br>
 <br>
 
-#Project 3: Polynimal regression<br>
+#Project 3: Polynomial regression<br>
 -Code Link :<a href="https://github.com/Kolte96/portfilo.io/blob/main/Polynimal_regression.ipynb">Polynomial_regression on salaries dataset</a><br>
 
 #project 4<br>
