@@ -7,6 +7,7 @@
 -My Portfilo_github account :<a href="https://github.com/Kolte96/portfilo.io">Kolte96/portfilo.io@github</a><br>
 <br>
 <h3>Certified in Google Professional Data Analytics in may 2022.</h3><br>
+![alt text](GoogleCer.JPEG)
 #Project 1:Exploratory Data Analysis on titanic data set<br>
 #Code Link:<br>
 -<a href="https://github.com/Kolte96/portfilo.io/blob/main/Titanic_Dataset_EDA.ipynb">Titanic_code</a><br>
